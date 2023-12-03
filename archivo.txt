@@ -1,0 +1,45 @@
+Desafío para Analista de Datos
+
+Contexto:
+
+Una empresa de comercio electrónico llamada "TechMart" te ha proporcionado un conjunto de datos que recopila información sobre las transacciones de sus clientes durante un año. Esta empresa desea comprender mejor el comportamiento de sus clientes, identificar patrones de compra y segmentar a los usuarios para poder ofrecer recomendaciones personalizadas y mejorar la experiencia del cliente.
+
+Datos Disponibles:
+
+El conjunto de datos contiene las siguientes columnas:
+
+Customer_ID: Identificación única del cliente.
+Timestamp: Marca de tiempo de la transacción.
+Product_Category: Categoría del producto comprado.
+Product_Price: Precio del producto comprado.
+Quantity: Cantidad del producto comprado en esa transacción.
+Total_Spent: Gasto total en la transacción.
+Desafío:
+
+Tu tarea es realizar un análisis exhaustivo de los datos proporcionados para extraer información valiosa que pueda ayudar a TechMart a mejorar sus estrategias comerciales.
+
+Pasos sugeridos:
+
+Exploración Inicial de Datos:
+
+Explorar la distribución de las categorías de productos, precios, cantidad comprada, etc.
+Realizar un análisis descriptivo para comprender las estadísticas básicas de las transacciones.
+Análisis de Patrones de Compra:
+
+Identificar las categorías de productos más populares y los productos más vendidos.
+Analizar la relación entre el precio de los productos y la cantidad vendida.
+Segmentación de Clientes:
+
+Utilizar técnicas de segmentación (por ejemplo, clustering) para agrupar a los clientes según su comportamiento de compra.
+Crear perfiles de clientes basados en sus hábitos de compra y gasto.
+Análisis de Tendencias Temporales:
+
+Estudiar las tendencias de compra a lo largo del tiempo (mensual, estacional, etc.).
+Identificar patrones de compra en diferentes períodos.
+Generación de Insights y Recomendaciones:
+
+Proporcionar recomendaciones basadas en el análisis para mejorar la estrategia de marketing, la gestión de inventario, la experiencia del cliente, etc.
+Presentar los hallazgos y las recomendaciones de manera clara y concisa.
+Nota:
+Se espera que utilices herramientas como Python (con bibliotecas como Pandas, Matplotlib, Seaborn), técnicas de análisis de datos y cualquier otra metodología que consideres relevante para abordar este desafío.
+
